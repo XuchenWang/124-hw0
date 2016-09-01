@@ -10,7 +10,7 @@ public class Area {
      * @return The area
      */
     public static double getSquareArea(double sideLength) {
-        return sideLength*sideLength ;
+        return sideLength*sideLength;
     }
 
     /**
